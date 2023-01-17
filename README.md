@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cyanray&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanray&layout=compact&hide=html,css,makefile,javascript">
 </a>
 
 你好，我是cyanray！![GitHub followers](https://img.shields.io/github/followers/cyanray?style=social)
